@@ -3,13 +3,13 @@
 Building Cubes is a smart :computer: software which is highly preferred by problem setter in developing
 their test files for coding problems. In addition to that, it provides other multiple applications like -
 
-**1-**Used for building dynamic test files.
+**1-** Used for building dynamic test files.
 
-**2-**Database tables for SQL queries and test cases for coding problems can be efficiently built. 
+**2-** Database tables for SQL queries and test cases for coding problems can be efficiently built. 
 
-**3-**Can be used for software and application testing. 
+**3-** Can be used for software and application testing. 
 
-**4-**Can be used for the study of data structures and algorithms.
+**4-** Can be used for the study of data structures and algorithms.
 
 
 It is an open-source software and has good software quality of maintainability under which
