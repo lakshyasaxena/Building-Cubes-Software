@@ -30,3 +30,6 @@ It has four major phases.
 
 
 ## :bulb: Once the user completes all the phases, he can build multiple test files.
+
+## Note:memo:
+This is a platform-dependent software. This is the window's version.
